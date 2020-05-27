@@ -1,0 +1,130 @@
+{
+    "Aguascalientes": {
+        "contagios": 676,
+        "habitantes": 1395794
+    },
+    "Baja California": {
+        "contagios": 4421,
+        "habitantes": 3521242
+    },
+    "Baja California Sur": {
+        "contagios": 549,
+        "habitantes": 771294
+    },
+    "Campeche": {
+        "contagios": 452,
+        "habitantes": 967319
+    },
+    "Coahuila": {
+        "contagios": 917,
+        "habitantes": 3132017
+    },
+    "Colima": {
+        "contagios": 118,
+        "habitantes": 760333
+    },
+    "Chiapas": {
+        "contagios": 1289,
+        "habitantes": 5563869
+    },
+    "Chihuahua": {
+        "contagios": 1278,
+        "habitantes": 3727984
+    },
+    "Ciudad de Mexico": {
+        "contagios": 20999,
+        "habitantes": 9041395
+    },
+    "Durango": {
+        "contagios": 249,
+        "habitantes": 1836460
+    },
+    "Estado de Mexico": {
+        "contagios": 12366,
+        "habitantes": 17056666
+    },
+    "Guanajuato": {
+        "contagios": 1184,
+        "habitantes": 6117205
+    },
+    "Guerrero": {
+        "contagios": 1363,
+        "habitantes": 3629733
+    },
+    "Hidalgo": {
+        "contagios": 1439,
+        "habitantes": 3014258
+    },
+    "Jalisco": {
+        "contagios": 1295,
+        "habitantes": 8238991
+    },
+    "Michoacan": {
+        "contagios": 1495,
+        "habitantes": 4757482
+    },
+    "Morelos": {
+        "contagios": 1220,
+        "habitantes": 2000527
+    },
+    "Nayarit": {
+        "contagios": 457,
+        "habitantes": 1252363
+    },
+    "Nuevo Leon": {
+        "contagios": 1222,
+        "habitantes": 5454848
+    },
+    "Oaxaca": {
+        "contagios": 1109,
+        "habitantes": 4096998
+    },
+    "Puebla": {
+        "contagios": 2320,
+        "habitantes": 6478819
+    },
+    "Queretaro": {
+        "contagios": 742,
+        "habitantes": 2197938
+    },
+    "Quintana Roo": {
+        "contagios": 1683,
+        "habitantes": 1645237
+    },
+    "San Luis Potosi": {
+        "contagios": 734,
+        "habitantes": 2825157
+    },
+    "Sinaloa": {
+        "contagios": 2813,
+        "habitantes": 3104258
+    },
+    "Sonora": {
+        "contagios": 1576,
+        "habitantes": 3000127
+    },
+    "Tabasco": {
+        "contagios": 3360,
+        "habitantes": 2515926
+    },
+    "Tamaulipas": {
+        "contagios": 1300,
+        "habitantes": 3590486
+    },
+    "Tlaxcala": {
+        "contagios": 858,
+        "habitantes": 1347932
+    },
+    "Veracruz": {
+        "contagios": 3258,
+        "habitantes": 8434163
+    },
+    "Yucatan": {
+        "contagios": 1567,
+        "habitantes": 2208236
+    },
+    "Zacatecas": {
+        "contagios": 251,
+        "habitantes": 1642388
+    }
+}
